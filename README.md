@@ -1,66 +1,41 @@
-# Tienda Online con Svelte: Carrito de Compras en Tiempo Real
+# 🛒 Tienda Online con React: Carrito de Compras en Tiempo Real
 
-### Resultado final 🔥
-![Resultado final](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-svelte-carrito-de-compras-en-tiempo-real.gif)
+¿Quieres llevar tus habilidades de React al siguiente nivel? Este proyecto es una tienda online dinámica diseñada para enseñarte a construir un **ecommerce completo** desde cero. Utiliza herramientas modernas como **React JS**, **Zustand** y **Bootstrap** para crear una experiencia de usuario fluida y profesional.
 
-## Descripción
+## Resultado final
 
-Esta es una tienda en línea de café, donde los usuarios pueden agregar productos a su carrito, ver el subtotal de su pedido y enviarlo a través de WhatsApp. La aplicación está desarrollada con Svelte y utiliza Bootstrap para el diseño.
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-carrito-de-compra-en-react.gif)
 
-## Características
 
-- **Interfaz de usuario dinámica**: Los productos se muestran en una interfaz de usuario moderna y amigable.
-- **Carrito de compras**: Los usuarios pueden agregar productos al carrito, ver detalles de los productos y eliminarlos.
-- **Envío por WhatsApp**: Los usuarios pueden enviar sus pedidos directamente a través de WhatsApp.
-- **Responsive**: La aplicación se adapta a diferentes tamaños de pantalla para brindar una experiencia fluida en dispositivos móviles y de escritorio.
+### Características principales:
+- Agregar productos al carrito.
+- Incrementar o decrementar la cantidad de un producto.
+- Eliminar productos individualmente.
+- Total de productos agregados al carrito
+- Total a pagar
 
-## Tecnologías utilizadas
+---
 
-- **Svelte**: Framework utilizado para el desarrollo del frontend.
-- **Bootstrap**: Framework CSS utilizado para el diseño y la responsividad.
-- **JavaScript**: Lenguaje principal para la interacción de la aplicación.
-- **Svelte Store**: Se usa para gestionar el estado global del carrito y el mensaje de WhatsApp.
+## 🚀 Tecnologías utilizadas
 
-## Instalación
+- **[Vite](https://vitejs.dev/):** Configuración rápida y ligera para React.
+- **[Bootstrap](https://getbootstrap.com/):** Framework CSS para un diseño atractivo y responsivo.
+- **React Hooks:** `useState`, `useEffect`, `useMemo`, `useFetch`, entre otros.
+- **[Zustand](https://zustand-demo.pmnd.rs/):** Librería de gestión de estado simple y rápida.
+- **[Axios](https://axios-http.com/):** Cliente HTTP para consumir APIs.
+- **[React Icons](https://react-icons.github.io/react-icons/):** Iconos personalizables para React.
+- **[Typewriter Effect](https://www.npmjs.com/package/typewriter-effect):** Efectos de texto animados para mejorar la experiencia visual.
+- **[loadingbars](https://klendi.github.io/react-top-loading-bar/):** Efecto de loading bars para el filtro.
 
-### 1. Clonar el repositorio
+---
 
-```bash
-git clone https://github.com/urian121/tienda-online-con-svelte-carrito-de-compras-en-tiempo-real
-```
 
-### 2. Instalar dependencias
+## Pasos para ejecutar el proyecto en tu entorno local:
 
-Asegúrate de tener Node.js y npm instalados, luego instala las dependencias del proyecto.
-
-```bash
-cd tienda-online-con-svelte-carrito-de-compras-en-tiempo-real
-npm install
-```
-
-### Dependencias
-```bash
-npm i bootstrap@5.3.3
-npm i bootstrap-icons
-```
-
-### 3. Ejecutar la aplicación
-
-Para ejecutar la aplicación en modo de desarrollo, usa el siguiente comando:
-
-```bash
-npm run dev
-```
-
-La aplicación estará disponible en `http://localhost:5173`.
-
-## Uso
-
-1. Los productos de la tienda se muestran en la interfaz principal.
-2. Los usuarios pueden agregar productos al carrito con un solo clic.
-3. El carrito puede ser visualizado desde el ícono en la esquina superior derecha.
-4. Los usuarios pueden ver el subtotal y eliminar productos del carrito.
-5. Una vez que los productos estén listos, pueden enviar el pedido directamente a través de WhatsApp.
+1. Clona este repo.
+2. Instala las dependencias con `npm install`.
+3. Corre el proyecto con `npm run dev`.
+4. Ve al navegador y abre `http://localhost:5173/`.
 
 
 ## 🙌 Cómo puedes apoyar 📢:
