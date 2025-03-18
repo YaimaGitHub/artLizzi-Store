@@ -29,13 +29,13 @@ const Nav = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
-                Productos
+              <a className="nav-link" href="https://lizzynails.vercel.app/">
+                
               </a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#">
-                Ofertas
+                
               </a>
             </li>
             <li className="nav-item">
