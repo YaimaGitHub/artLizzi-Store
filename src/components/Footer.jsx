@@ -15,14 +15,14 @@ const Footer = () => {
           {/* Texto del Footer */}
           <div className="col-12 col-md-6 text-center text-md-start mb-3 mb-md-0">
             <p className="mb-0">
-              &copy; 2024{" "}
+              &copy; 2025{" "}
               <a
                 target="_blank"
                 rel="noreferrer"
                 href="https://www.urianviera.com"
                 className="text-white text-decoration-none"
               >
-                Urian Viera
+                Lizzi Lorena Grajales Feal
               </a>{" "}
               || Todos los derechos reservados.
             </p>
