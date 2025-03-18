@@ -12,7 +12,7 @@ const TitleTypeWriter = () => {
         <h3 className="text-center">
           <Typewriter
             options={{
-              strings: [" ✋ Hola, soy Lizzi Lorena", "Trabajemos juntos para crear algo increíble.! 🚀"],
+              strings: [" ✋ Hola, soy Urian Viera", "Full Stack Developer 🔥"],
               autoStart: true,
               loop: true,
               deleteSpeed: 50, // Velocidad de eliminación

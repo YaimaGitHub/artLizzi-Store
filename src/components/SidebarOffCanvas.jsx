@@ -13,7 +13,7 @@ const SidebarOffCanvas = () => {
   };
 
   const generateWhatsAppMessage = () => {
-    let message = "Hola Lizzi Lorena, saludos. Quiero este pedido:\n\n";
+    let message = "Hola Urian, saludos. Quiero este pedido:\n\n";
     cart.forEach((product) => {
       message += `Producto: ${product.title}\nCantidad: ${product.quantity}\nPrecio: $${product.price}\n\n`;
     });

@@ -15,14 +15,14 @@ const Footer = () => {
           {/* Texto del Footer */}
           <div className="col-12 col-md-6 text-center text-md-start mb-3 mb-md-0">
             <p className="mb-0">
-              &copy; 2025{" "}
+              &copy; 2024{" "}
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://lizzynails.vercel.app/"
+                href="https://www.urianviera.com"
                 className="text-white text-decoration-none"
               >
-                Lizziy's Nails
+                Urian Viera
               </a>{" "}
               || Todos los derechos reservados.
             </p>
@@ -36,7 +36,7 @@ const Footer = () => {
                 href="https://github.com/urian121"
                 className="text-white me-3"
               >
-                <Facebook />
+                <FaGithub />
               </a>
               <a
                 target="_blank"
@@ -44,7 +44,7 @@ const Footer = () => {
                 href="https://www.linkedin.com/in/urian-viera"
                 className="text-white me-3"
               >
-                <Facebook />
+                <FaLinkedin />
               </a>
               <a
                 target="_blank"
@@ -52,7 +52,7 @@ const Footer = () => {
                 href="https://www.youtube.com/WebDeveloperUrianViera"
                 className="text-white me-3"
               >
-                <Facebook />
+                <FaYoutube />
               </a>
               <a
                 target="_blank"
@@ -60,7 +60,7 @@ const Footer = () => {
                 href="https://www.npmjs.com/package/nextjs-toast-notify"
                 className="text-white me-3"
               >
-                <Facebook />
+                <FaNpm />
               </a>
               <a
                 target="_blank"
@@ -68,7 +68,7 @@ const Footer = () => {
                 href="https://www.urianviera.com/"
                 className="text-white me-3"
               >
-                <Facebook />
+                <FaChrome />
               </a>
               <a
                 target="_blank"
@@ -76,7 +76,7 @@ const Footer = () => {
                 href="https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE"
                 className="text-white"
               >
-                <Facebook />
+                <FaPaypal />
               </a>
             </div>
           </div>
