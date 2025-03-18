@@ -19,7 +19,7 @@ const Footer = () => {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.urianviera.com"
+                href="https://lizzynails.vercel.app/"
                 className="text-white text-decoration-none"
               >
                 Lizzi Lorena Grajales Feal
