@@ -44,7 +44,7 @@ const Footer = () => {
                 href="https://www.linkedin.com/in/urian-viera"
                 className="text-white me-3"
               >
-                < />
+                <Facebook />
               </a>
               <a
                 target="_blank"
@@ -52,7 +52,7 @@ const Footer = () => {
                 href="https://www.youtube.com/WebDeveloperUrianViera"
                 className="text-white me-3"
               >
-                < />
+                <Facebook />
               </a>
               <a
                 target="_blank"
@@ -60,7 +60,7 @@ const Footer = () => {
                 href="https://www.npmjs.com/package/nextjs-toast-notify"
                 className="text-white me-3"
               >
-                < />
+                <Facebook />
               </a>
               <a
                 target="_blank"
@@ -68,7 +68,7 @@ const Footer = () => {
                 href="https://www.urianviera.com/"
                 className="text-white me-3"
               >
-                < />
+                <Facebook />
               </a>
               <a
                 target="_blank"
@@ -76,7 +76,7 @@ const Footer = () => {
                 href="https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE"
                 className="text-white"
               >
-                < />
+                <Facebook />
               </a>
             </div>
           </div>
